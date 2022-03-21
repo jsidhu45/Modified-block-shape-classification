@@ -3,6 +3,11 @@ The modified block shape classification tool can be use to classify any polyhedr
 
 The repository was created by Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India. 
 
+** MBSCT.exe software can be downloaded for the link https://drive.google.com/drive/folders/1HryaUSyV0tIwsuYAV8D1de8wcZ6OgAwB?usp=sharing
+Due to size constrains file was not uploaded on GitHub ** 
+
+MBSCT.py tool is available in this repositry and can be used by following the steps below
+
 Step to Follow:
 
 Step 1. Download the file with the name MBSCT.py and save it in your system drive.
@@ -20,3 +25,5 @@ Step 5. Click on the browse data file button and select the excel file containin
 Step 6. Click on the execute button, wait till the code computes. The execution time depends on how bigger the data set is. The code will  automatically save the resultant excel file containing block number, alpha, beta and volume information after execution in the current directory. 
 
 Step 7. After the code is executed, click on different plot buttons to generate the required plots.
+
+
