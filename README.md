@@ -3,7 +3,7 @@ The modified block shape classification tool can be use to classify any polyhedr
 
 The repository was created by Dr. Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India. 
 
-** MBSCT.exe software can be downloaded for the link https://drive.google.com/drive/folders/1HryaUSyV0tIwsuYAV8D1de8wcZ6OgAwB?usp=sharing
+** MBSCT.exe software can be downloaded from the link https://drive.google.com/drive/folders/1HryaUSyV0tIwsuYAV8D1de8wcZ6OgAwB?usp=sharing
 Due to size constrains file was not uploaded on GitHub ** 
 
 MBSCT.py tool is available in this repositry and can be used by following the steps below
