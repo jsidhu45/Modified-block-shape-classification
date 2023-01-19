@@ -4,9 +4,9 @@ The modified block shape classification tool can be use to classify any polyhedr
 The repository was created by Dr. Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India. 
 
 ** MBSCT.exe software can be downloaded from the link https://drive.google.com/drive/folders/1HryaUSyV0tIwsuYAV8D1de8wcZ6OgAwB?usp=sharing
-Due to size constrains file was not uploaded on GitHub ** 
+Due to size constrains file was not uploaded on GitHub**. MBSCT.exe can directlty be used without by adding the data file to generate the classification plots.
 
-MBSCT.py tool is available in this repositry and can be used by following the steps below
+MBSCT.py tool is made available in this repositry and can be used by following the steps below:
 
 Step to Follow:
 
@@ -27,3 +27,4 @@ Step 6. Click on the execute button, wait till the code computes. The execution 
 Step 7. After the code is executed, click on different plot buttons to generate the required plots.
 
 
+This software is develped as a part of PhD research work of Dr. Jaspreet Singh. For more detail you can follow of publication "Modified block shape characterization method for classification of fractured rock: A python-based GUI tool" publised in Computers and Geosciences Journal. https://doi.org/10.1016/j.cageo.2022.105125.
