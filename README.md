@@ -1,7 +1,7 @@
 # Modified block shape characterization method for classification of fractured rock: A Python-based GUI tool
 The modified block shape classification tool can be use to classify any polyhedral shape formed by the intersection of discontinuities in the rock mass. 
 
-The repository was created by Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India. 
+The repository was created by Dr. Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India. 
 
 ** MBSCT.exe software can be downloaded for the link https://drive.google.com/drive/folders/1HryaUSyV0tIwsuYAV8D1de8wcZ6OgAwB?usp=sharing
 Due to size constrains file was not uploaded on GitHub ** 
