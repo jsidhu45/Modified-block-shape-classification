@@ -27,4 +27,4 @@ Step 6. Click on the execute button, wait till the code computes. The execution 
 Step 7. After the code is executed, click on different plot buttons to generate the required plots.
 
 
-This software is develped as a part of PhD research work of Dr. Jaspreet Singh. For more detail you can follow of publication "Modified block shape characterization method for classification of fractured rock: A python-based GUI tool" publised in Computers and Geosciences Journal. https://doi.org/10.1016/j.cageo.2022.105125.
+This software is develped as a part of PhD research work of Dr. Jaspreet Singh. For more detail you can follow our publication "Modified block shape characterization method for classification of fractured rock: A python-based GUI tool" publised in Computers and Geosciences Journal. https://doi.org/10.1016/j.cageo.2022.105125.
